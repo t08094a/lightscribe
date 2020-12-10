@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=LightScribe Disc Labeler
+Exec=/opt/lightscribeApplications/SimpleLabeler/SimpleLabeler
+Icon=/opt/lightscribeApplications/SimpleLabeler/content/images/LabelWizardIcon.png
+Terminal=false
+StartupNotify=true
+Categories=Utility

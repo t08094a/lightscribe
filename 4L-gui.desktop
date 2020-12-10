@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=4L Lacie LightScribe Labeler
+Exec=4L-gui
+Icon=/usr/bin/4L-gui
+Terminal=false
+StartupNotify=true
+Categories=Utility
